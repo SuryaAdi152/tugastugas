@@ -1,18 +1,33 @@
 body {
- margin: 0;
- padding: 0;
- min-width: 100%;
- min-height: 100vh;
+  margin: 0;
+  padding: 0;
+  min-width: 100%;
+  min-height: 100vh;
 }
+
 .element {
- background-color: #003940;
+  background-color: #003940;
 }
+
 .main-profile .card {
- min-height: 90vh;
+  min-height: 90vh;
 }
+
 .profile-desc .card {
- min-height: 43.5vh;
+  min-height: 43.5vh;
 }
+
 .main-profile .card img {
- border: 5px solid #383838;
+  border: 5px solid #383838;
+}
+
+/* Kode CSS untuk mengubah tampilan tautan Instagram */
+.instagram-link {
+  text-decoration: none; /* Menghilangkan garis bawah */
+  color: black; /* Mengubah warna teks menjadi hitam */
+}
+
+.instagram-link:hover {
+  text-decoration: none; /* Tetap menghilangkan garis bawah saat mouse berada di atas tautan */
+  color: black; /* Tetap menggunakan warna hitam saat mouse berada di atas tautan */
 }
