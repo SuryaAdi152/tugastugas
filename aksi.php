@@ -7,7 +7,7 @@
 <style>
     body {
         font-family: Arial, sans-serif;
-        background-image: url('https://gifs.alphacoders.com/gifs/view/15877'); /* Ganti 'halloween_bg.gif' dengan nama file gambar Anda */
+        background-image: url('hallow.gif'); /* Ganti 'halloween_bg.gif' dengan nama file gambar Anda */
         background-size: cover;
         background-attachment: fixed;
         background-repeat: no-repeat;
