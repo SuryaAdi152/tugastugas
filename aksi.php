@@ -4,31 +4,35 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Hasil Formulir Biodata</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f5f5f5;
-            text-align: center;
-        }
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        background-image: url('https://gifs.alphacoders.com/gifs/view/15877'); /* Ganti 'halloween_bg.gif' dengan nama file gambar Anda */
+        background-size: cover;
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        text-align: center;
+    }
 
-        .container {
-            background-color: #fff;
-            border-radius: 8px;
-            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
-            max-width: 400px;
-            margin: 20px auto;
-            padding: 20px;
-        }
+    .container {
+        background-color: rgba(255, 255, 255, 0.7);
+        border-radius: 8px;
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        max-width: 400px;
+        margin: 20px auto;
+        padding: 20px;
+    }
 
-        h1 {
-            color: #007BFF;
-        }
+    h1 {
+        color: #007BFF;
+    }
 
-        p {
-            text-align: left;
-            margin: 5px 0;
-        }
-    </style>
+    p {
+        text-align: left;
+        margin: 5px 0;
+    }
+</style>
+
 </head>
 <body>
     <div class="container">
