@@ -52,7 +52,7 @@
             echo "<p><strong>Alamat:</strong> $alamat</p>";
             echo "<p><strong>Jenis Kelamin:</strong> $jenis_kelamin</p>";
             echo "<p><strong>Jurusan:</strong> $jurusan</p>";
-            echo "<p><strong>Hobi:</strong> $Hobi/<p>";
+            echo "<p><strong>Hobi:</strong> $Hobi</p>";
             echo "<p><strong>Email:</strong> $email</p>";
         } else {
             echo "<p>Terjadi kesalahan dalam pengiriman formulir.</p>";
